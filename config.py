@@ -26,7 +26,7 @@ class Config(object):
     # Main channel ki ID
     CHANNEL = -1002349402727
     # Channel ka link
-    CH_URL = "https://t.me/uihash"
+    CH_URL = "https://t.me/+Uc8Nb3tk7TU4YzU1"
     # Bot ke owner ka Telegram link
     OWNER = "https://t.me/tor3k7"
     # Thumbnail image ka URL
