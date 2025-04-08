@@ -28,7 +28,7 @@ class Config(object):
     # Channel ka link
     CH_URL = "https://t.me/uihash"
     # Bot ke owner ka Telegram link
-    OWNER = "https://t.me/uihash"
+    OWNER = "https://t.me/tor3k7"
     # Thumbnail image ka URL
     THUMB_URL = "https://envs.sh/ajv.jpg" #Replace by with your Thumb URL
     # API host ka URL
