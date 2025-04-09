@@ -1,7 +1,7 @@
 from pyrogram import Client as bot, filters
 import os, sys, aiofiles, asyncio
 from config import Config
-import msg 
+from msg import msg 
 from datetime import datetime, timedelta
 import pytz, subprocess, shutil
 from main import LOGGER
